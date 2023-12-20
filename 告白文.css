@@ -2,41 +2,6 @@
     margin: 0%;
     padding: 0;
 }
-h3{
-    text-align:center;
-    color: white;
-    
-}
-
-h1{
-    text-align:center;
-    color: white;
-    
-}
-
-h2{
-    text-align:center;
-    color: white;
-    
-}
-
-h4{
-    text-align:center;
-    color: white;
-    
-}
-
-h5{
-    text-align:center;
-    color: white;
-    
-}
-
-h6{
-    text-align:center;
-    color: white;
-    
-}
 
 
 body{
@@ -45,4 +10,24 @@ body{
     height: 100vh;
     background-position: center;
     background-size: cover;
+}
+
+.one{
+    color: white;
+    text-align: center;
+}
+
+.two{
+    color: plum;
+    text-align: center;
+}
+
+.title{
+    color: white;
+    text-align: center;
+}
+
+.name{
+    color: pink;
+    text-align: center;
 }
